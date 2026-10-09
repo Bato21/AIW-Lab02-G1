@@ -1,0 +1,6 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+
+# Course materials (assignment PDF, original notebook/CSV copies): local reference only
+context/
